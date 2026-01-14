@@ -5,9 +5,9 @@
     <solid android:color="#0369a1" />
     <corners
         android:bottomLeftRadius="@dimen/maximum_corner_radius"
-        android:bottomRightRadius="@dimen/maximum_corner_radius"
+        android:bottomRightRadius="@dimen/minimum_corner_radius"
         android:topLeftRadius="@dimen/minimum_corner_radius"
-        android:topRightRadius="@dimen/minimum_corner_radius" />
+        android:topRightRadius="@dimen/maximum_corner_radius" />
     <stroke android:width="@dimen/zero" />
     <padding
         android:bottom="@dimen/default_padding"
